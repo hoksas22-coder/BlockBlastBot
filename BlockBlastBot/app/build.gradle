@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.example.blockblastbot'; compileSdk 33
+    defaultConfig { applicationId 'com.example.blockblastbot'; minSdk 30; targetSdk 33; versionCode 1; versionName '1.0' }
+}
